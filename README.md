@@ -5,8 +5,8 @@ Debbie:
  [![Build Status](http://debbie.postgis.net:8080/buildStatus/icon?job=PostGIS_2.2)]
  (http://debbie.postgis.net:8080/view/PostGIS/job/PostGIS_2.2/)
 Winnie:
- [![Build Status](http://winnie.postgis.net:1500/buildStatus/icon?job=PostGIS_2.2)]
- (http://winnie.postgis.net:1500/view/PostGIS/job/PostGIS_2.2/)
+	[![Build Status](http://winnie.postgis.net:1500/buildStatus/icon?job=PostGIS_Git_Winnie)]
+	(http://winnie.postgis.net:1500/view/PostGIS/job/PostGIS_Git_Winnie/)
 GitLab-CI:
  [![Build Status](http://gitlab.com/ci/projects/3944/status.png?ref=svn-2.2)]
  (http://gitlab.com/ci/projects/3944?ref=svn-2.2)
